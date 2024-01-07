@@ -1,4 +1,4 @@
-# Emprendiendo en el mundo Front-End
+# Emprendiendo en el mundo Full-Stack
 
 ### Bienvenidos a mi repositorio
 
